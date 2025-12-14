@@ -4,6 +4,8 @@ go 1.25.1
 
 require (
 	github.com/go-chi/chi v1.5.5
+	github.com/go-jose/go-jose/v4 v4.1.3
+	github.com/go-playground/assert/v2 v2.2.0
 	github.com/jackc/pgx/v5 v5.7.6
 	github.com/joho/godotenv v1.5.1
 )
